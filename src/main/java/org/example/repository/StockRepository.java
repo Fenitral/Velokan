@@ -1,9 +1,9 @@
-package org.example.repository;
+// package org.example.repository;
 
-import org.example.entity.Stock;
-import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
+// import org.example.entity.Stock;
+// import org.springframework.data.jpa.repository.JpaRepository;
+// import org.springframework.stereotype.Repository;
 
-@Repository
-public interface StockRepository extends JpaRepository<Stock, Long> {
-}
+// @Repository
+// public interface StockRepository extends JpaRepository<Stock, Long> {
+// }
